@@ -13,7 +13,7 @@
 	There are two flavors of PDG. <b>dxfPDG</b> and <b>ezpzPDG</b>.
 	<hr style="text-align:left; margin-left:0; width:460px; height:2px; 
 	      background-color:black; border: 0 none;" />
-	<h2><a href="https://popsshebang.github.io/PDG/dxfPDG.html">dxfPDG</a></h2>
+	<h2><a href="https://popsshebang.github.io/PDG/dxfPDG">dxfPDG</a></h2>
 	dxfPDG reads the hole locations from a 2D dxf file. The locations are 
 	processed and the gCode generated. 
 	<h2><a href="https://popsshebang.github.io/PDG/ezpzPDG.html">ezpzPDG</a></h2>
